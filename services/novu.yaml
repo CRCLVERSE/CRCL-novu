@@ -1,0 +1,4 @@
+name: novu
+rules: []
+ServiceSrcType: Yes-HelmChart
+helmChartName: novu
